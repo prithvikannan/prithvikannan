@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+
+**Currently looking for software engineering and product internships for Fall 2020, Spring 2021, and Summer 2021 - shoot me an email if you are hiring!**
+
+- 🔭 I’m currently working on ads at Microsoft
+- 🌱 I’m currently learning about NLP with BERT-based models and distributed systems like MapReduce
+- 👯 I’m looking to collaborate on productivity, machine learning, or any other cool projects
+- 💬 Ask me about mentorship, business, trading
+- 📫 How to reach me: prithvi.kannan@gmail.com
 
 <!--
 **prithvikannan/prithvikannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
