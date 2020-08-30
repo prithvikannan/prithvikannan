@@ -19,7 +19,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 <!--
 **prithvikannan/prithvikannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
