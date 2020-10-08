@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-**Currently looking for software engineering and product internships for Fall 2020, Spring 2021, and Summer 2021 - shoot me an email if you are hiring!**
+**Currently looking for software engineering and product internships for Winter 2021, Spring 2021, and Summer 2021 - shoot me an email if you are hiring!**
 
 - 🔭 I’m currently a software engineering intern at Microsoft Ads, working on deep learning text generation 
 - 🌱 I’m currently learning about NLP with BERT-based models and distributed systems like MapReduce
