@@ -1,8 +1,7 @@
 ### Hi there 👋 
 
-**Currently looking for software engineering and product internships for Winter 2021, Spring 2021, and Summer 2021 - shoot me an email if you are hiring!**
-
-- 🔭 I’m currently a software engineering intern at Microsoft Ads, working on deep learning text generation 
+- 🔭 I’m currently a software engineering intern at Facebook, working to reduce bullying on Instagram
+- 📜 I am a former intern at Microsoft and PayPal
 - 🌱 I’m currently learning about NLP with BERT-based models and distributed systems like MapReduce
 - 👯 I’m looking to collaborate on productivity, machine learning, or any other cool projects
 - 💬 Ask me about mentorship, business, trading
