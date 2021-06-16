@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently a software engineering intern at Facebook, working to reduce bullying on Instagram
-- 📜 I am a former intern at Microsoft and PayPal
+- 🔭 I’m currently a software engineering intern at Databricks, working on [mlflow](https://mlflow.org/)
+- 📜 I am a former intern at Facebook (Instagram), Microsoft, and PayPal
 - 🌱 I’m currently learning about NLP with BERT-based models and distributed systems like MapReduce
 - 👯 I’m looking to collaborate on productivity, machine learning, or any other cool projects
 - 💬 Ask me about mentorship, business, trading
